@@ -1,18 +1,18 @@
-# 📚 Dev-Term Flashcards
+# Dev-Term Flashcards
 
 live demo -
 
 This is my **React mini project** — an interactive flashcard app designed to help users learn programming terms in a simple and engaging way.
 
-## 🚀 Features
+## Features
 
-- 🃏 Flashcards with programming terms
-- 🔄 Click-to-flip card animation
-- 📖 Shows definition on the back side
-- ⚡ Smooth and interactive UI
-- 🎯 Beginner-friendly learning tool
+- Flashcards with programming terms
+- Click-to-flip card animation
+- Shows definition on the back side
+- Smooth and interactive UI
+- Beginner-friendly learning tool
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React.js
 - HTML5

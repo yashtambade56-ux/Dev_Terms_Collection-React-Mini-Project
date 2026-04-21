@@ -1,16 +1,20 @@
-# React + Vite
+# 📚 Dev-Term Flashcards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+live demo -
 
-Currently, two official plugins are available:
+This is my **React mini project** — an interactive flashcard app designed to help users learn programming terms in a simple and engaging way.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🃏 Flashcards with programming terms
+- 🔄 Click-to-flip card animation
+- 📖 Shows definition on the back side
+- ⚡ Smooth and interactive UI
+- 🎯 Beginner-friendly learning tool
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- HTML5
+- CSS3
+- JavaScript (ES6)
